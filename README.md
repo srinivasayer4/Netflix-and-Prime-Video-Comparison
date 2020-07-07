@@ -1,5 +1,5 @@
 # Online Streaming Analysis
-# Airbnb-analysis-for-European-cities
+
 ## Installation
 This code is written in a Jupyter notebook and is coded in Python 3. I have used Pandas, Numpy, Matplotlib, Seaborn, os, BeautifulSoup, time and re (for regex) to complete the project. Hence, these need to be installed.
 
