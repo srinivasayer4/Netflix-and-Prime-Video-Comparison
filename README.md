@@ -16,11 +16,6 @@ In this project I have compared the content between Amazon, Dinsey+, HBO Max and
 7) In which genres is Netflix creating more original content?
 8) Which genres are the most popular among Netflix and Amazon?
 
-All the data used in this project are taken from-
-1) https://reelgood.com/
-2) https://www.finder.com/
-3) https://www.wikipedia.org/
-
 ## File Description
 There is a Jupyter notebook in .ipynb format. I will also be writing a blogpost on Medium summarizing all the insights that I gather. I will upload the blogpost in the form of a word file here.
 
@@ -29,4 +24,5 @@ There is a Jupyter notebook in .ipynb format. I will also be writing a blogpost 
 1) https://reelgood.com/
 2) https://www.finder.com/
 3) https://www.wikipedia.org/
+
 Feel free to use the code in the Jupyter notebook as you like.
