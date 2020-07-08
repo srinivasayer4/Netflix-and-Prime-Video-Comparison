@@ -17,7 +17,11 @@ In this project I have compared the content between Amazon, Dinsey+, HBO Max and
 8) Which genres are the most popular among Netflix and Amazon?
 
 ## File Description
-There is a Jupyter notebook in .ipynb format. I will also be writing a blogpost on Medium summarizing all the insights that I gather. I will upload the blogpost in the form of a word file here.
+There is a Jupyter notebook in .ipynb format. I have also written a blogpost on Medium summarizing all the insights that I gathered. 
+
+## Blog
+The blog can be accessed here-  
+[Medium](https://medium.com/@srinivasayer/who-will-win-the-online-streaming-war-9cda4560b12f?sk=8f4f2cdab7c88ed1e0206cdb8363fc14)
 
 ## Licensing and Acknowledgements
  All the data used in this project are taken from-
